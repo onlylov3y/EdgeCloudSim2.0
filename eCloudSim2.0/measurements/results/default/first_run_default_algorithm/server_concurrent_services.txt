@@ -1,0 +1,1 @@
+SimTime	Current Service_ID	Milano1-CPU	Milano1-RAM	Milano2-CPU	Milano2-RAM	Genova-CPU	Genova-RAM	Sanova-CPU	Sanova-RAM	Torino-CPU	Torino-RAM	Concurrent Services

@@ -1,0 +1,4 @@
+SimTime	Host_ID	Host_Name	VM_ID	DC_ID	Owner_ID	Reason	Status
+31373.215161609045	#12.13	server-002	#12.13.1	#12	#26.27	success	true
+31373.315161609044	#12.13	server-002	#12.13.2	#12	#26.27	success	true
+31373.415161609042	#12.13	server-002	#12.13.3	#12	#26.27	success	true
